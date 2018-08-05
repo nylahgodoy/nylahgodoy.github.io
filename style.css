@@ -1,0 +1,27 @@
+.row{   
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Merienda', cursive;
+}
+.headshot{
+    width: 20%;
+    transform: rotate(90deg);
+}
+.mid{
+    background-color: #241428;
+    color: #6e2082;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    display: flex;
+    justify-content: center;
+}
+.aboutme{
+    border:1px solid black; 
+    display: flex;
+    justify-content: center;
+}
